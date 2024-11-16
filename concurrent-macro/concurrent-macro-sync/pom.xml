@@ -24,7 +24,7 @@
   <parent>
     <groupId>org.xwiki.contrib.concurrent</groupId>
     <artifactId>concurrent-macro</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>concurrent-macro-sync</artifactId>
   <name>Sync Macro</name>
